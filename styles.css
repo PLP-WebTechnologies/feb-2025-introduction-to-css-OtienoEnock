@@ -1,6 +1,11 @@
 h1,h2{
     text-align: center;
 }
+.container{
+    padding: 20px;
+    background-color: rgb(201, 201, 201);
+    border: px;
+}
 
 .roam{
     border: 1px;
@@ -46,4 +51,14 @@ p{
     position: absolute;
     top: 5px;
     right: 1px;
+}
+footer{
+    width: 100%;
+    background-color: bisque;
+    padding: 5px;
+}
+header{
+    width: 100%;
+    background-color: rgb(247, 171, 7);
+    padding: 5px;
 }
